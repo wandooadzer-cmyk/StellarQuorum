@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/adoption-tutorial",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/adoption-tutorial": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/adoption-tutorial",
+    "origin"
+  ]
+}
